@@ -8,7 +8,7 @@ Este é um projeto simples feito em html, css e javascript puro para treinar min
 - Javascript
 
 # Link para acessar o site
-[Clique aqui](www.teste.com](https://jonaswgdev.github.io/Counter-Number/)
+[Clique aqui](https://jonaswgdev.github.io/Counter-Number/)
 
 # Contato
 - Email: jonaswdev@gmail.com
